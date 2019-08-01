@@ -1,0 +1,9 @@
+1949 1 1
+2005 12 31
+E:\China_wetlands\Input\NASAIDS10km\atm_reorganized_bin2km\ndep_same\noy
+.bin
+noy.txt
+sjmask2kmreorganized.bin
+1
+1
+sjmask2kmreorganized.bin
